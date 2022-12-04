@@ -1,0 +1,12 @@
+{
+    "manifest_version": 1,
+    "name": "NoGrey",
+    "version": "1.0.0",
+    "injects": {
+        "Main": [
+            {
+                "file": "main.js"
+            }
+        ]
+    }
+}
